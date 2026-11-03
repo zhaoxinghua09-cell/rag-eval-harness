@@ -1,0 +1,15 @@
+# rag-eval-harness
+
+> RAG 问答系统的质量评估与防幻觉验证方法论，用于回答「知识库答得准不准」「它会不会胡编」「换了模型还稳不稳」这类问题
+
+## Repository
+
+- rag-eval-harness: https://github.com/zhaoxinghua09-cell/rag-eval-harness (RAG 问答系统的质量评估与防幻觉验证方法论，用于回答「知识库答得准不准」「它会不会胡编」「换了模型还稳不稳」这类问题)
+
+## Ecosystem / 生态
+
+- awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
+- lgd-hub: https://github.com/zhaoxinghua09-cell/lgd-hub
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace
+- governanceos: https://github.com/zhaoxinghua09-cell/governanceos
+- skillgate: https://github.com/zhaoxinghua09-cell/skillgate
